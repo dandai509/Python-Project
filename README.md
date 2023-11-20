@@ -33,7 +33,7 @@ Finally, I used time series train-test-split cross-validation, default 5 splits 
 I then used linear regression model, all variables were used except year, all features were selected, data normalised, train and test the database on a 30% split, The result is shown below with an RMSE Value 77%.
 ![Picture13](https://github.com/dandai509/Python-Project/assets/106848444/da718829-cc8b-4b5e-b488-1b54abf0fa8c)
 ## Summary
-NZ' GDP is expected to keep on growing above 5% in next couple of years, variety of factors that affects the growth of GDP including Services, consumption, agriculture sector. Both ARIMA and Linear regression models can be used to predict GDP growth. Linear regression model has outperformed ARIMA model with a Smaller RMSE value. Invest in the service sector as it is highly correlated to GDP, you would expect a similar return of at least 5%
+NZ' GDP is expected to keep on growing above 5% in next couple of years, variety of factors that affects the growth of GDP including Services, consumption, agriculture sector. Both ARIMA and Linear regression models can be used to predict GDP growth. Linear regression model has outperformed ARIMA model with a Smaller RMSE value. Invest in the service sector as it is highly correlated to GDP, you would expect a similar return of at least 5%.
 
 
 

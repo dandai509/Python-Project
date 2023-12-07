@@ -13,7 +13,7 @@ Overall, NZ had a stable growth of GDP from the 1970s, it doubled from 5 billion
 New Zealand’s GDP growth heavily relies on the service sector, the agriculture and Manufacturing sector has a steady but insignificant growth over the 50 years. The factors that affect GDP growth the most. Manufacture, service, and Agriculture consumption have the highest correlation with Total GDP. And Inflation and Unemployment have a negative correlation with GDP.
 ![Picture6](https://github.com/dandai509/Python-Project/assets/106848444/efacb26b-ff64-44e3-bbc2-f6fe24c22d66)
 ![Picture7](https://github.com/dandai509/Python-Project/assets/106848444/f5e68af4-df93-49a6-828c-2ee0cd29183d)
-## Machine Learning Modell
+## Machine Learning Model
 ### ARIMA Model
 Because the nature of the data is historical, we chose ARIMA(Autoregressive Integrated Moving Average) model to forecast the future GDP of NZ. The limitations are that data needs to be Stationary and non-seasonal. We use ADF test to test the null hypothesis to determine if the data is stationary. Results are below.
 ![Picture8](https://github.com/dandai509/Python-Project/assets/106848444/e22e3ec6-df13-41d1-a82e-af960bf3f0d9)
